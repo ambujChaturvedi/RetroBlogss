@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">RetroBlogs</string>
+    <string name="fragment3">Fragment 3</string>
+    <string name="fragment1">Tap to Login</string>
+    <string name="fragment2">fragment 2</string>
+    <string name="action_button_title">Login</string>
+    <string name="create_accout">No Account Yet Create One?</string>
+    <string name="action_button_register">Register</string>
+    <string name="REgister_here">Register Here</string>
+    <string name="action_button_post">Post</string>
+    <string name="desc">this is a brief description about the post and the whole descripion wiil be found in other detail activity</string>
+    <string name="user_name">user_name</string>
+    <string name="user_email">USer_email</string>
+    <string name="change_photo">Change Photo</string>
+    <string name="item1">Logout</string>
+    <string name="item2">Account Settings</string>
+    <string name="log_out">Logout</string>
+</resources>

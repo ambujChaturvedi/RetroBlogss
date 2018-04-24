@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <RelativeLayout
+        android:id="@+id/rel1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="20dp">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="30sp"
+            android:text="@string/REgister_here"
+            android:layout_centerHorizontal="true"/>
+
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:padding="20dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/rel2"
+        android:layout_below="@+id/rel1">
+
+        <EditText
+            android:id="@+id/name"
+            android:layout_margin="20dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Enter Your Name"
+            android:textColor="#333"
+            android:textSize="15sp" />
+
+        <EditText
+            android:id="@+id/email"
+            android:layout_below="@+id/name"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Enter An Email"
+            android:inputType="textEmailAddress"
+            android:textColor="#333"
+            android:textSize="15sp"
+            android:layout_margin="20dp"/>
+        <EditText
+            android:id="@+id/password"
+            android:layout_below="@id/email"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:inputType="textPassword"
+            android:hint="Enter A Password"
+            android:layout_margin="20dp"
+            android:textColor="#333"
+            android:textSize="15sp" />
+
+        <ru.dimorinny.floatingtextbutton.FloatingTextButton
+
+            android:id="@+id/register"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:layout_below="@id/password"
+            app:floating_background_color="@color/colorPrimary"
+            app:floating_title="@string/action_button_register"
+            app:floating_title_color="@android:color/white" />
+    </RelativeLayout>
+
+
+
+
+
+
+
+
+</RelativeLayout>

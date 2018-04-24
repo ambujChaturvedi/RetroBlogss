@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "219923955831",
+    "firebase_url": "https://retrowallpapers-8f0f4.firebaseio.com",
+    "project_id": "retrowallpapers-8f0f4",
+    "storage_bucket": "retrowallpapers-8f0f4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:219923955831:android:9cda082e627c1867",
+        "android_client_info": {
+          "package_name": "com.example.user.retrowallpapers"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "219923955831-tvgcaeicv4rphgphbfjs3iovkgfj9909.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.user.retrowallpapers",
+            "certificate_hash": "2f24a4a47b8ad2716aac01e1e8f0af88cafdfa39"
+          }
+        },
+        {
+          "client_id": "219923955831-j998ikhkuu2rmjc0uk23e0t569u4ceam.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApce7MZ4IfwfG-X04GMiV85cmoIwVb9rU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "219923955831-j998ikhkuu2rmjc0uk23e0t569u4ceam.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:219923955831:android:2058544dc4483fd5",
+        "android_client_info": {
+          "package_name": "com.example.user.retroblogs"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "219923955831-22j98ht1dduk7tquk6862qk65epstn45.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.user.retroblogs",
+            "certificate_hash": "2f24a4a47b8ad2716aac01e1e8f0af88cafdfa39"
+          }
+        },
+        {
+          "client_id": "219923955831-j998ikhkuu2rmjc0uk23e0t569u4ceam.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApce7MZ4IfwfG-X04GMiV85cmoIwVb9rU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "219923955831-j998ikhkuu2rmjc0uk23e0t569u4ceam.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
